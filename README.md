@@ -93,7 +93,7 @@ I made a pumpkin out of vertices with colors. I wanted to test out and see if I 
 ![This](/ProcessingImages/Pumpkin.PNG)
 
 # Solar System
-This one was another fun project I made. I thought of an idea of making different planets orbiting around each other going around, so I made this. I use translate o make the orbit seem seamless, making it seem like it was going around the planets. I've also added moons to see if I could've made it go around smaller planets in a closed space. 
+This one was another fun project I made. I thought of an idea of making different planets orbiting around each other going around, so I made this. I use translate to make the orbit seem seamless, making it seem like it was going around the planets. I've also added moons to see if I could've made it go around smaller planets in a closed space. 
 
 ![This](/ProcessingImages/SolarSystem.gif)
 
