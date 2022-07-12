@@ -100,7 +100,7 @@ This one was another fun project I made. I thought of an idea of making differen
 # 3D Space
 When I've heard I could've made 3d objects in processing, I knew I needed to go for it. It was surprisingly simple to learn about it. All I needed to make was 2 spheres and a box using one line of code. Then, I used ambient lighting to make it visible. 
 
-![This](/ProcessingImages/3dSpace.gif)
+![This](/ProcessingImages/3dSpace.PNG)
 
 # Camera
 Thsi one was to test out a bit of the camera in processing. I used a box as a tesing ground to see if anything can be moved around in the camera. A fun little gimmick, but has a lot of potential. 
