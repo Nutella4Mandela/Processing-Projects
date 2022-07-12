@@ -56,8 +56,16 @@ squares, but in future projects, it'll have more life to them. Maybe making icon
 
 ![This](SquareLR.PNG)
 
-# FUCK....
+# While Loop Circle
+I made a while loop for this one to make the circle as many times as it needs to, but when it does, it gets smaller and brighter. Nothing much, 
+but pretty cool effect
 
+![This](EpiCircle.PNG)
+
+# Randomized Colored Squares 
+Another neat code that makes a cool effect. I used a for loop to make squares spawn repeatedly in randomized positions and colors. 
+
+![This](RandomSquares.PNG)
 
 
 
