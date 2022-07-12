@@ -25,9 +25,9 @@ managed to get thing the way I wanted it to be plus made some adjustment with th
 I tried testing on different colors and how to move them in fixed areas. I used a little bit of simple math to move them correctly. With a lot of
 trials and errors, I got them right where I wanted them.
 
-![This](Circle1)
+![This](Circle1.PNG)
 
-![This](Circle2)
+![This](Circle2.PNG)
 
 # Colors
 This was probably one of the most coolest codes I've done! Every time you hover your mouse on different positions of the screen, the color of 
@@ -36,14 +36,27 @@ original black, going back to the original color. The upper right goes and turns
 the lower right changes to the combination of red and blue. I was really excited to see this when I was playing around with it at first. Really
 cool stuff!
 
-![This](ColorBlack)
+![This](ColorBlack.PNG)
 
-![This](ColorRed)
+![This](ColorRed.PNG)
 
-![This](ColorBlue)
+![This](ColorBlue.PNG)
 
-![This](ColorRedBlue)
+![This](ColorRedBlue.PNG)
 
+# Black Square
+This one's relatively similar to the Color code, but I used for the purpose of emulating a mouse hovering on options. Of course, they're just black
+squares, but in future projects, it'll have more life to them. Maybe making icons bigger when hovering on them, who knows? 
+
+![This](SquareUL.PNG)
+
+![This](SquareUR.PNG)
+
+![This](SquareLL.PNG)
+
+![This](SquareLR.PNG)
+
+# FUCK....
 
 
 
