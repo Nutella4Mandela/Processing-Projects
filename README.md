@@ -72,6 +72,45 @@ In this code, I went a little creative on this one. I made two circle that gets 
 
 ![This](/ProcessingImages/CircleColor.gif)
 
+# Jitterbug
+I used two files for this one to make this work. I made two circles that jitter in random positions to emulate a bug moving around in nonsensical places. To do this I made a class called Jitterbug that helps it move. 
+
+![This](/ProcessingImages/Jitterbug.gif)
+
+# Gravity
+In this one, I emulated gravity to make a square fall and bounce to the ground. I made collisions on the edges so it wouldn't fall through the ground. Another simple code!
+
+![This](/ProcessingImages/Gravity.gif)
+
+# Pong Test
+In this one, I emulated a ping pong game! I made a score counter everytime you bounce the ball with your paddle. If you miss it, it'll just go back to the screen. 
+
+![This](/ProcessingImages/Pong.PNG)
+
+# Pumpkin
+I made a pumpkin out of vertices with colors. I wanted to test out and see if I can make something without textures or sprites. Just a plain old pumpkin and it looks good too!
+
+![This](/ProcessingImages/Pumpkin.PNG)
+
+# Solar System
+This one was another fun project I made. I thought of an idea of making different planets orbiting around each other going around, so I made this. I use translate o make the orbit seem seamless, making it seem like it was going around the planets. I've also added moons to see if I could've made it go around smaller planets in a closed space. 
+
+![This](/ProcessingImages/SolarSystem.gif)
+
+# 3D Space
+When I've heard I could've made 3d objects in processing, I knew I needed to go for it. It was surprisingly simple to learn about it. All I needed to make was 2 spheres and a box using one line of code. Then, I used ambient lighting to make it visible. 
+
+![This](/ProcessingImages/3dSpace.gif)
+
+# Camera
+Thsi one was to test out a bit of the camera in processing. I used a box as a tesing ground to see if anything can be moved around in the camera. A fun little gimmick, but has a lot of potential. 
+
+![This](/ProcessingImages/Camera.gif)
+
+
+
+
+
 
 
 
