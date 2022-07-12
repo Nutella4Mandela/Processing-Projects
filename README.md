@@ -67,6 +67,11 @@ Another neat code that makes a cool effect. I used a for loop to make squares sp
 
 ![This](RandomSquares.PNG)
 
+# Circle Color
+In this code, I went a little creative on this one. I made two circle that gets affected by hovering your mouse up and down. They move into opposite directions, changing shape as they do. I also made it so that they change color as they move. It's a pretty cool effect that it makes! 
+
+![This](RandomSquares.PNG)
+
 
 
 
